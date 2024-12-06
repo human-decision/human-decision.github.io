@@ -1,2 +1,2 @@
-# HUMAN-DECISION project GitHub page
+# HUMAN-DECISION project GitHub Page
 
